@@ -1,0 +1,9 @@
+[package]
+name = "wave_survival_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Heddlok"]
+
+[dependencies]
+minifb = "0.25"
+rand = "0.8"
