@@ -1,6 +1,6 @@
 # Wave Survival — Rust
 
-A fast-paced wave survival game built entirely in Rust without using any game engine. Features real-time combat, wave-based progression, and retro pixel graphics.
+A fast-paced wave survival game built entirely in Rust. Features real-time combat, wave-based progression, and retro pixel graphics.
 
 ![Game Preview](https://img.shields.io/badge/Game-Wave%20Survival-blue) ![Language](https://img.shields.io/badge/Language-Rust-orange) ![Engine](https://img.shields.io/badge/Engine-None-red)
 
