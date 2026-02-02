@@ -161,5 +161,3 @@ Potential features for future development:
 ---
 
 **Enjoy surviving the waves!** 🎮
-
-*Built with ❤️ in Rust*
